@@ -1,3 +1,6 @@
+# Config should not be exposed
+config.json
+
 # Logs
 logs
 *.log
